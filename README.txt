@@ -1,0 +1,1 @@
+BlogPost html and css code, simple stuff
